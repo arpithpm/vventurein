@@ -27,9 +27,10 @@ All notable changes to the VVenturez website will be documented in this file.
 ### Removed
 - Deleted old reboot.html file
 
-- **Project Name Formatting**: Updated all project names in index.html to display "V VENTUREZ" on first line and project name on second line for better visual hierarchy
+- **Project Name Formatting**: Updated all project names in index.html to display "V VENTUREZ" on first line and project name (in uppercase) on second line for better visual hierarchy
   - Applied to all projects across On-Going, Up-Coming, and Completed tabs
-  - Projects affected: Radian, Summit, Elite, Essence, Golden Heights, Orchid, EVA, The Peepal Tree, EL-DORADO, Bellvue
+  - All project names now displayed in uppercase for consistency
+  - Projects affected: RADIAN, SUMMIT, ELITE, ESSENCE, GOLDEN HEIGHTS, ORCHID, EVA, THE PEEPAL TREE, EL-DORADO, BELLVUE
 
 ### Technical
 - Updated sitemap.xml lastmod date for radian.html to 2025-11-27
