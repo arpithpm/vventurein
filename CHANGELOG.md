@@ -32,6 +32,10 @@ All notable changes to the VVenturez website will be documented in this file.
   - All project names now displayed in uppercase for consistency
   - Projects affected: RADIAN, SUMMIT, ELITE, ESSENCE, GOLDEN HEIGHTS, ORCHID, EVA, THE PEEPAL TREE, EL-DORADO, BELLVUE
 
+- **Homepage Projects Section Header**: Updated "Our Real Estate Projects in Bangalore" section styling
+  - Changed background color to grey (#898989, CMYK: C:0 M:0 K:60)
+  - Changed text and icon color to black (#000000) for better contrast
+
 ### Technical
 - Updated sitemap.xml lastmod date for radian.html to 2025-11-27
 - All image alt texts maintain SEO-friendly descriptions
