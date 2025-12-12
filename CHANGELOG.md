@@ -2,6 +2,20 @@
 
 All notable changes to the VVenturez website will be documented in this file.
 
+## [2025-12-12] - December 12, 2025
+
+### Changed
+- **Summit Project Converted to Commercial Project**: Major update to project type and specifications
+  - Project name changed from "V VENTUREZ SUMMIT" to "V VENTUREZ Commercial Project"
+  - Project type changed from residential to commercial development
+  - Location updated to: Silk Board junction, Bommanahalli, Bangalore
+  - Total area changed from 24,500 sqft to 20,000 sqft
+  - Added FAR specification: 3 FAR
+  - Updated floor configuration to: Double basement stilt G+6
+  - Removed residential unit information (2 and 3 BHK: 56 Units)
+  - Updated subtitle from "The Art of Peak Dwelling" to "Premium Commercial Development"
+  - Files affected: index.html, summit.html
+
 ## [2025-11-27] - November 27, 2025
 
 ### Changed
