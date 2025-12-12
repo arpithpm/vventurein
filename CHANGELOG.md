@@ -16,6 +16,15 @@ All notable changes to the VVenturez website will be documented in this file.
   - Updated subtitle from "The Art of Peak Dwelling" to "Premium Commercial Development"
   - Files affected: index.html, summit.html
 
+- **Elite Project Renamed to Residential**: Complete project rebrand and relocation
+  - Project name changed from "V VENTUREZ ELITE" to "V VENTUREZ RESIDENTIAL"
+  - Location updated to: Old Fort Road, Sarjapura, Bangalore
+  - Surface area increased from 15,246 sqft to 25,000 sqft
+  - Total units remains: 40 Units
+  - Removed BHK configuration details (previously 2 and 3 BHK)
+  - Updated subtitle from "Enter The Exalted" to "Premium Residential Development"
+  - Files affected: index.html, elite.html
+
 ## [2025-11-27] - November 27, 2025
 
 ### Changed
